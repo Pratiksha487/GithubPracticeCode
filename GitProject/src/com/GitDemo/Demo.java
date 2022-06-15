@@ -4,7 +4,7 @@ public class Demo {
 
 	public void m1()
 	{
-		System.out.println("m1 from demo eclipse");
+		System.out.println("m1 from demo eclipse commit push");
 	}
 	
 	public void m2()
@@ -14,7 +14,7 @@ public class Demo {
 	
 	public void m3()
 	{
-		System.out.println("m3 from demo eclipse");
+		System.out.println("m3 from demo eclipse commit push");
 	}
 	
 	public static void main(String[] args) 
