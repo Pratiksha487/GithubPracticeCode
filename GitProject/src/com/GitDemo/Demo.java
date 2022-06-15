@@ -9,7 +9,7 @@ public class Demo {
 	
 	public void m2()
 	{
-		System.out.println("m2 from git");
+		System.out.println("m2 from git pull");
 	}
 	
 	public void m3()
